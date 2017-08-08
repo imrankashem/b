@@ -1,0 +1,639 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:2:1-597:12
+	package
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+uses-permission#com.androidtutorialpoint.mymapsappsdirection.permission.MAPS_RECEIVE
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:5:5-108
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:5:22-105
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\imran\.android\build-cache\d6ed77a36df5cb04c3b732771ffbfbbf4b0f7726\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\imran\.android\build-cache\61ddec60895f26b961451b8f4eafa1a0373e38fd\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:20:5-595:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\imran\.android\build-cache\89c8f9f6cec86399a6ce7dbb653cfc4b760df155\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\imran\.android\build-cache\59a155d2ad1ba4237e0ad294dd5965c83de0b7bb\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\imran\.android\build-cache\d6ed77a36df5cb04c3b732771ffbfbbf4b0f7726\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\imran\.android\build-cache\8d88328c280f580e8529ebb1be81ca5fff4b3376\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\imran\.android\build-cache\e25701e55db45b5f81638703356d677cf6f4bbe9\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\imran\.android\build-cache\b395449099dfe2345b684737342b06bf9310eab3\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\imran\.android\build-cache\3536e10bcb7352c7a868d863125a3646798bd4c1\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\imran\.android\build-cache\658796e1f743370df4b3ee2554f2f0d07ca315b6\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\imran\.android\build-cache\2e039a2b899aebdd50a1b6625db2c6bab3ec9e01\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\imran\.android\build-cache\61ddec60895f26b961451b8f4eafa1a0373e38fd\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\imran\.android\build-cache\8d411b15853cb5d0286dc7e5ff8977fc2260d99e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\imran\.android\build-cache\5831dc51a8c7f51c46244fb2055584d1dbc5f7da\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\imran\.android\build-cache\102b5a822fef02b2d16472a0b09d4ebf7c61c039\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\imran\.android\build-cache\1841e76bef469ea4a15fee44855645273020191b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\imran\.android\build-cache\970f3c4bd578b7138f3ce9d4c2c205aa15b2e38f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\imran\.android\build-cache\76f56c59f1a611dfb1f9ad9e1d74fb9327d2129d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\imran\.android\build-cache\9c8d1fc234352d4d84994a33308f0f526eebf47a\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\imran\.android\build-cache\c73af712d3c1905c294238d3f2431a03fdd5db8c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\imran\.android\build-cache\02c5539f593fd0dc5cede08b06d100f6f0f86c1c\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\imran\.android\build-cache\49b0b8d9858aa33f702ecf23748aa286a33fa8a0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\imran\.android\build-cache\c6f8eaf814078cecd6bbe9b7da55aac29eeafdf4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\imran\.android\build-cache\6ad2ff7cec01691e89084dac395d31b6f348ab62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\27f571d1daef8b5050d8e867f78e0ce389d276a9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\d3467098d0755dac0e51884e2abb98b2b701b80e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\329c1c1c7d71a8c1a475b5c9a73f571731f2fe8c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\imran\.android\build-cache\270d001e59027af5cd074e8b7601cab8bad655f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\imran\.android\build-cache\0470e64e91f8439d96b98ac2ced6eca90af13d6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\imran\.android\build-cache\115533d3c6e6bb276667efd6bc2d6e1f7b0faa67\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\imran\.android\build-cache\1337d3a6ed1fb2e918937a1072eeb2cf7daeedfc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\imran\.android\build-cache\810a97da056753f58803418090424391f1e55743\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\imran\.android\build-cache\286c92c01efb4250806ca63737113605d30d7a4a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\9ceca191ed4cdefc9bd8c1e97ca1c562c0d08748\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\imran\.android\build-cache\0389959cb8516c3112c1334b0bd285281fac0ffe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\imran\.android\build-cache\c6e6bd06f146d7ce43d58ebdc00ebd6f038fc20c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.test:runner:0.5] C:\Users\imran\.android\build-cache\99136cc544c05a730f535cb8c07382823a4da524\output\AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\imran\.android\build-cache\270ab438376057e4316e09156c7094dadddfc48a\output\AndroidManifest.xml:24:5-20
+	android:screenOrientation
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:29:9-45
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:30:9-35
+	android:roundIcon
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:28:9-44
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:22:9-44
+	android:allowBackup
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:23:9-40
+	android:theme
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:31:9-40
+	android:logo
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:27:9-39
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:32:9-34:42
+	android:value
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:34:13-39
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:33:13-59
+activity#com.example.imran.doctorscorner.splashActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:40:13-49
+	android:launchMode
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:39:13-42
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:38:13-48
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:37:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.imran.doctorscorner.Hospitals
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:47:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:49:13-46
+	android:roundIcon
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:50:13-48
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:53:13-48
+	android:banner
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:48:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:55:13-59:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:58:27-73
+activity#com.example.imran.doctorscorner.Chittagongdoc
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:62:13-46
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:61:19-48
+activity#com.example.imran.doctorscorner.chittagongdoc2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:70:9-76:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:70:19-49
+activity#com.example.imran.doctorscorner.chittagongdoc3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:77:9-83:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:77:19-49
+activity#com.example.imran.doctorscorner.chittagongdoc4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:84:9-90:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:84:19-49
+activity#com.example.imran.doctorscorner.chittagongdoc5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:91:9-97:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:91:19-49
+activity#com.example.imran.doctorscorner.chittagongdoc6
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:98:9-104:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:98:19-49
+activity#com.example.imran.doctorscorner.dhakadoc
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:105:9-111:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:105:19-43
+activity#com.example.imran.doctorscorner.dhakadoc1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:112:9-118:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:112:19-44
+activity#com.example.imran.doctorscorner.dhakadoc2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:119:9-125:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:119:19-44
+activity#com.example.imran.doctorscorner.dhakadoc3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:126:9-132:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:126:19-44
+activity#com.example.imran.doctorscorner.dhakadoc4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:133:9-139:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:133:19-44
+activity#com.example.imran.doctorscorner.dhakadoc5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:140:9-146:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:140:19-44
+activity#com.example.imran.doctorscorner.dhakadoc6
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:147:9-153:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:147:19-44
+activity#com.example.imran.doctorscorner.dhakadoc7
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:154:9-160:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:154:19-44
+activity#com.example.imran.doctorscorner.dhakadoc8
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:161:9-167:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:161:19-44
+activity#com.example.imran.doctorscorner.dhakadoc9
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:168:9-174:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:168:19-44
+activity#com.example.imran.doctorscorner.dhakadoc10
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:175:9-181:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:175:19-45
+activity#com.example.imran.doctorscorner.dhakadoc11
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:182:9-188:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:182:19-45
+activity#com.example.imran.doctorscorner.dhakadoc12
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:189:9-195:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:189:19-45
+activity#com.example.imran.doctorscorner.dhakadoc13
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:196:9-202:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:196:19-45
+activity#com.example.imran.doctorscorner.chittagongdoc7
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:203:9-209:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:203:19-49
+activity#com.example.imran.doctorscorner.chittagongdoc8
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:210:9-216:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:210:19-49
+activity#com.example.imran.doctorscorner.nothingtoshow
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:217:9-223:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:217:19-48
+activity#com.example.imran.doctorscorner.syletdoc
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:224:9-230:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:224:19-43
+activity#com.example.imran.doctorscorner.syletdoc3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:231:9-237:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:231:19-44
+activity#com.example.imran.doctorscorner.syletdoc2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:238:9-244:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:238:19-44
+activity#com.example.imran.doctorscorner.comilladoc
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:245:9-251:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:245:19-45
+activity#com.example.imran.doctorscorner.comilladoc2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:252:9-258:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:252:19-46
+activity#com.example.imran.doctorscorner.comilladoc3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:259:9-265:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:259:19-46
+activity#com.example.imran.doctorscorner.comilladoc4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:266:9-272:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:266:19-46
+activity#com.example.imran.doctorscorner.comilladoc5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:273:9-279:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:273:19-46
+activity#com.example.imran.doctorscorner.kulnadoc
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:280:9-286:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:280:19-43
+activity#com.example.imran.doctorscorner.kulnadoc1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:287:9-293:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:287:19-44
+activity#com.example.imran.doctorscorner.rajshahi_doc
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:294:9-300:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:294:19-47
+activity#com.example.imran.doctorscorner.rajshahi_doc1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:301:9-307:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:301:19-48
+activity#com.example.imran.doctorscorner.rajshahi_doc2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:308:9-314:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:308:19-48
+activity#com.example.imran.doctorscorner.rajshahi_doc3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:315:9-321:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:315:19-48
+activity#com.example.imran.doctorscorner.rajshahi_doc4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:322:9-328:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:322:19-48
+activity#com.example.imran.doctorscorner.topdoc.topdoc0
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:329:9-335:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:329:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:336:9-342:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:336:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:343:9-349:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:343:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:350:9-356:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:350:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:357:9-363:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:357:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:364:9-370:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:364:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc6
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:371:9-377:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:371:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc7
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:378:9-384:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:378:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc8
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:385:9-391:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:385:19-49
+activity#com.example.imran.doctorscorner.topdoc.topdoc9
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:392:9-398:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:392:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos0
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:399:9-405:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:399:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:406:9-412:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:406:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:413:9-419:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:413:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:420:9-426:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:420:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:427:9-433:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:427:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:434:9-440:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:434:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos6
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:441:9-447:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:441:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos7
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:448:9-454:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:448:19-49
+activity#com.example.imran.doctorscorner.tophos.tophos8
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:455:9-461:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:455:19-49
+activity#com.example.imran.doctorscorner.dhakadoc14
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:462:9-468:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:462:19-45
+activity#com.example.imran.doctorscorner.dhakadoc15
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:469:9-475:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:469:19-45
+activity#com.example.imran.doctorscorner.dhakadoc16
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:476:9-482:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:476:19-45
+activity#com.example.imran.doctorscorner.bloodbank.BloofBankDetails
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:483:9-489:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:483:19-61
+activity#com.example.imran.doctorscorner.bloodbank.bloodbank1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:490:9-496:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:490:19-55
+activity#com.example.imran.doctorscorner.bloodbank.bloodbank2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:497:9-503:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:497:19-55
+activity#com.example.imran.doctorscorner.bloodbank.bloodbank3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:504:9-510:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:504:19-55
+activity#com.example.imran.doctorscorner.bloodbank.bloodbank4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:511:9-517:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:511:19-55
+activity#com.example.imran.doctorscorner.bloodbank.bloodbank5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:518:9-524:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:518:19-55
+activity#com.example.imran.doctorscorner.ambulance.ambulance0
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:525:9-531:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:525:19-55
+activity#com.example.imran.doctorscorner.ambulance.ambulance1
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:532:9-538:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:532:19-55
+activity#com.example.imran.doctorscorner.ambulance.ambulance2
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:539:9-545:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:539:19-55
+activity#com.example.imran.doctorscorner.ambulance.ambulance3
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:546:9-552:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:546:19-55
+activity#com.example.imran.doctorscorner.ambulance.ambulance4
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:553:9-559:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:553:19-55
+activity#com.example.imran.doctorscorner.ambulance.ambulance5
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:560:9-566:20
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:560:19-55
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:577:9-579:55
+	android:value
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:579:13-52
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:578:13-58
+activity#com.example.imran.doctorscorner.MapsActivity
+ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:581:9-592:20
+	android:screenOrientation
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:585:13-49
+	android:label
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:586:13-56
+	android:configChanges
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:584:13-48
+	android:name
+		ADDED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml:583:13-41
+uses-sdk
+INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\imran\.android\build-cache\89c8f9f6cec86399a6ce7dbb653cfc4b760df155\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\imran\.android\build-cache\59a155d2ad1ba4237e0ad294dd5965c83de0b7bb\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\imran\.android\build-cache\d6ed77a36df5cb04c3b732771ffbfbbf4b0f7726\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\imran\.android\build-cache\8d88328c280f580e8529ebb1be81ca5fff4b3376\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\imran\.android\build-cache\e25701e55db45b5f81638703356d677cf6f4bbe9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\imran\.android\build-cache\b395449099dfe2345b684737342b06bf9310eab3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\imran\.android\build-cache\3536e10bcb7352c7a868d863125a3646798bd4c1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\imran\.android\build-cache\658796e1f743370df4b3ee2554f2f0d07ca315b6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\imran\.android\build-cache\2e039a2b899aebdd50a1b6625db2c6bab3ec9e01\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\imran\.android\build-cache\61ddec60895f26b961451b8f4eafa1a0373e38fd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\imran\.android\build-cache\8d411b15853cb5d0286dc7e5ff8977fc2260d99e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\imran\.android\build-cache\5831dc51a8c7f51c46244fb2055584d1dbc5f7da\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\imran\.android\build-cache\102b5a822fef02b2d16472a0b09d4ebf7c61c039\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\imran\.android\build-cache\1841e76bef469ea4a15fee44855645273020191b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\imran\.android\build-cache\970f3c4bd578b7138f3ce9d4c2c205aa15b2e38f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\imran\.android\build-cache\76f56c59f1a611dfb1f9ad9e1d74fb9327d2129d\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\imran\.android\build-cache\3e386acd72cb8d231b9444198ed54d78c3cbd80a\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\imran\.android\build-cache\9c8d1fc234352d4d84994a33308f0f526eebf47a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\imran\.android\build-cache\c73af712d3c1905c294238d3f2431a03fdd5db8c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\imran\.android\build-cache\362370a61d9825d37a4e5e6d431a1147b7ea06f3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\imran\.android\build-cache\02c5539f593fd0dc5cede08b06d100f6f0f86c1c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\imran\.android\build-cache\49b0b8d9858aa33f702ecf23748aa286a33fa8a0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\032649928b912a2c72ea1aefdbcf0f71a73460ed\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\imran\.android\build-cache\c6f8eaf814078cecd6bbe9b7da55aac29eeafdf4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\imran\.android\build-cache\6ad2ff7cec01691e89084dac395d31b6f348ab62\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\27f571d1daef8b5050d8e867f78e0ce389d276a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\d3467098d0755dac0e51884e2abb98b2b701b80e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\329c1c1c7d71a8c1a475b5c9a73f571731f2fe8c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\imran\.android\build-cache\270d001e59027af5cd074e8b7601cab8bad655f5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\imran\.android\build-cache\0470e64e91f8439d96b98ac2ced6eca90af13d6d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\imran\.android\build-cache\115533d3c6e6bb276667efd6bc2d6e1f7b0faa67\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\imran\.android\build-cache\1337d3a6ed1fb2e918937a1072eeb2cf7daeedfc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\imran\.android\build-cache\810a97da056753f58803418090424391f1e55743\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\imran\.android\build-cache\286c92c01efb4250806ca63737113605d30d7a4a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\9ceca191ed4cdefc9bd8c1e97ca1c562c0d08748\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\imran\.android\build-cache\0389959cb8516c3112c1334b0bd285281fac0ffe\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\imran\.android\build-cache\c6e6bd06f146d7ce43d58ebdc00ebd6f038fc20c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.test:runner:0.5] C:\Users\imran\.android\build-cache\99136cc544c05a730f535cb8c07382823a4da524\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] C:\Users\imran\.android\build-cache\270ab438376057e4316e09156c7094dadddfc48a\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\imran\.android\build-cache\49b0b8d9858aa33f702ecf23748aa286a33fa8a0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\imran\.android\build-cache\d6ed77a36df5cb04c3b732771ffbfbbf4b0f7726\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\imran\.android\build-cache\5831dc51a8c7f51c46244fb2055584d1dbc5f7da\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\imran\.android\build-cache\d12abefaf03c272866e0bda5788b15234e3b4cd8\output\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\imran\.android\build-cache\fe480c55e7a5981793dfa27add7cabe9d9498d82\output\AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\imran\.android\build-cache\a3b4515d3422f40e274d10b16c15036f0749e893\output\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\imran\.android\build-cache\61ddec60895f26b961451b8f4eafa1a0373e38fd\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\imran\.android\build-cache\61ddec60895f26b961451b8f4eafa1a0373e38fd\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\imran\.android\build-cache\0d16541de2d62b70a4dc60523565e660382b31a9\output\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\imran\.android\build-cache\01c8b691910a3ff8794ca903da08f41412834bbe\output\AndroidManifest.xml:24:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\imran\.android\build-cache\02c5539f593fd0dc5cede08b06d100f6f0f86c1c\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\imran\.android\build-cache\02c5539f593fd0dc5cede08b06d100f6f0f86c1c\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\imran\.android\build-cache\02c5539f593fd0dc5cede08b06d100f6f0f86c1c\output\AndroidManifest.xml:22:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\imran\.android\build-cache\49b0b8d9858aa33f702ecf23748aa286a33fa8a0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\032649928b912a2c72ea1aefdbcf0f71a73460ed\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\imran\.android\build-cache\c6f8eaf814078cecd6bbe9b7da55aac29eeafdf4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\imran\.android\build-cache\6ad2ff7cec01691e89084dac395d31b6f348ab62\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\27f571d1daef8b5050d8e867f78e0ce389d276a9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\d3467098d0755dac0e51884e2abb98b2b701b80e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\329c1c1c7d71a8c1a475b5c9a73f571731f2fe8c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\imran\.android\build-cache\270d001e59027af5cd074e8b7601cab8bad655f5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\imran\.android\build-cache\0470e64e91f8439d96b98ac2ced6eca90af13d6d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\imran\.android\build-cache\115533d3c6e6bb276667efd6bc2d6e1f7b0faa67\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\imran\.android\build-cache\1337d3a6ed1fb2e918937a1072eeb2cf7daeedfc\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\imran\.android\build-cache\810a97da056753f58803418090424391f1e55743\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\imran\.android\build-cache\286c92c01efb4250806ca63737113605d30d7a4a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\imran\.android\build-cache\9ceca191ed4cdefc9bd8c1e97ca1c562c0d08748\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\imran\.android\build-cache\0389959cb8516c3112c1334b0bd285281fac0ffe\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\imran\.android\build-cache\c6e6bd06f146d7ce43d58ebdc00ebd6f038fc20c\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\imran\.android\build-cache\49b0b8d9858aa33f702ecf23748aa286a33fa8a0\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\imran\.android\build-cache\49b0b8d9858aa33f702ecf23748aa286a33fa8a0\output\AndroidManifest.xml:26:9-47

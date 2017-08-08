@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/Dhhaka"
+            android:icon="@mipmap/icc1"
+            android:checked="true"
+            android:title="Dhaka">
+
+        </item>
+        <item
+            android:id="@+id/CHittagong"
+            android:icon="@mipmap/icc1"
+            android:title="Chittagong">
+
+        </item>
+        <item
+            android:id="@+id/Sylett"
+            android:icon="@mipmap/icc1"
+            android:title="Sylhet">
+
+        </item>
+        <item
+            android:id="@+id/Rajshahi"
+            android:icon="@mipmap/icc1"
+            android:title="Rajshahi">
+
+        </item>
+        <item
+            android:id="@+id/Comilla"
+            android:icon="@mipmap/icc1"
+            android:title="Comilla">
+
+        </item>
+        <item
+            android:id="@+id/Kulna"
+            android:icon="@mipmap/icc1"
+            android:title="Khulna">
+
+        </item>
+    </group>
+
+
+
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/htips"
+                android:icon="@mipmap/health"
+                android:title="Health Tips"></item>
+
+            <item
+                android:id="@+id/TRhospitals"
+                android:icon="@mipmap/hospitals"
+                android:title="Top Ranked Hospitals">
+
+            </item>
+            <item
+
+                android:id="@+id/TRdoctors"
+                android:icon="@mipmap/doctors"
+                android:title="Top Ranked Doctors">
+
+            </item>
+            <item
+                android:id="@+id/blood"
+                android:icon="@mipmap/blood"
+                android:title="Blood Bank "></item>
+            <item
+                android:id="@+id/firstaid"
+                android:icon="@drawable/firstaid"
+                android:title="First Aid">
+
+            </item>
+            <item
+                android:id="@+id/ambulance"
+                android:icon="@mipmap/ambulance"
+                android:title="Ambulance">
+
+
+            </item>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

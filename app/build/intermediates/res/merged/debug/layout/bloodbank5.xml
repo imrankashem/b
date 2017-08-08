@@ -1,0 +1,75 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:minHeight="?attr/actionBarSize">
+
+            <ImageButton
+                android:id="@+id/upButton"
+                style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:adjustViewBounds="true"
+                android:background="@color/colorPrimary"
+                android:onClick="uphandler"
+                android:scrollbarSize="@dimen/cardview_compat_inset_shadow"
+                android:src="@drawable/arr"
+
+                />
+
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Comilla  Blood Bank"
+            android:id="@+id/docchi0"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:layout_below="@id/toolbar"
+            android:textAllCaps="true"
+            android:textSize="23sp"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi0"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :DonateBloodBd.com
+Address :
+Contact No. :	01756963308 অথবা 01748306027
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="#36454F"
+
+            android:textSize="18sp"
+
+
+            android:textStyle="bold" />
+    </RelativeLayout>
+</ScrollView>

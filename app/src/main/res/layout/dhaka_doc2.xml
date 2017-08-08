@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:minHeight="?attr/actionBarSize">
+
+            <ImageButton
+                android:id="@+id/upButton"
+                style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:adjustViewBounds="true"
+                android:background="@color/colorPrimary"
+                android:onClick="uphandler"
+                android:scrollbarSize="@dimen/cardview_compat_inset_shadow"
+                android:src="@drawable/arr"
+
+                />
+
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:layout_below="@id/toolbar"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Advanced Eye Center
+Address: 5/17 Humayun Road, College Gate, Dhaka - 1207, Bangladesh
+
+Phone  :+880-2-9123479, 01716-165353
+"
+
+            android:textAllCaps="true"
+            android:textColor="#36454F"
+            android:textSize="23sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+ Dr. Ahsanul Haq Amin
+ MBBS, MD
+ Assistant Professor
+  Hormone , Diabetes
+   Advanced Eye Center
+    +880-1712463976\n
+"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#36454F"
+
+
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Dr. Md. Abdul Aziz
+ MBBS, FCPS
+ Assistant Professor
+   Hematology
+   Advanced Eye Center
+   +880 1713209137\n
+
+"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#36454F"
+
+
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Dr. Sayeda Sabrina Sultana
+ BDS, PGT ( BSMMU )
+  Consultant
+ Dental Maxillofacial Surgeon
+ Advanced Eye Center
+  +880 1914553088\n
+
+"
+            android:textAllCaps="true"
+            android:textColor="#36454F"
+
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Dr. Shirin Akhter
+MBBS, FCPS ( Gyne.  Obs. )
+ Consultant
+ Gynecology ,Obstetrics
+ Advanced Eye Center
+ +880-2-9115602\n
+
+"
+            android:textAllCaps="true"
+            android:textColor="#36454F"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+    </RelativeLayout>
+</ScrollView>

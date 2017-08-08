@@ -1,0 +1,96 @@
+<FrameLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.imran.doctorscorner.MapsActivity" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <Button
+
+            android:id="@+id/btnpharmacy"
+            style="@style/Base.CardView"
+
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:textColor="@color/actionBarText"
+            android:background="@color/colorPrimary"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:text="Nearby Pharmacy"
+
+            />
+
+        <Button
+
+            android:id="@+id/btnHospital"
+            style="@style/Base.CardView"
+            android:layout_width="wrap_content"
+            android:textColor="@color/actionBarText"
+            android:background="@color/colorPrimary"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+
+            android:text="Nearby Hospitals" />
+        <Button
+
+            android:id="@+id/btnambulance"
+            style="@style/Base.CardView"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:textColor="@color/actionBarText"
+            android:background="@color/colorPrimary"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:text="Nearby Ambulance" />
+        <Button
+
+            android:id="@+id/btndoctors"
+            style="@style/Base.CardView"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:textColor="@color/actionBarText"
+            android:background="@color/colorPrimary"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:text="Nearby Doctors" />
+        <Button
+
+            android:id="@+id/btnblood"
+            android:textColor="@color/actionBarText"
+            android:background="@color/colorPrimary"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+
+            android:text="Nearby Blood Bank" />
+
+
+
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\b395449099dfe2345b684737342b06bf9310eab3\\output\\res\\drawable-xxhdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\1841e76bef469ea4a15fee44855645273020191b\\output\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\1841e76bef469ea4a15fee44855645273020191b\\output\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\1841e76bef469ea4a15fee44855645273020191b\\output\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\8d411b15853cb5d0286dc7e5ff8977fc2260d99e\\output\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\b395449099dfe2345b684737342b06bf9310eab3\\output\\res\\drawable-xxhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\places_ic_clear.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\8d411b15853cb5d0286dc7e5ff8977fc2260d99e\\output\\res\\drawable-xxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\1841e76bef469ea4a15fee44855645273020191b\\output\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\b395449099dfe2345b684737342b06bf9310eab3\\output\\res\\drawable-xxhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\8d411b15853cb5d0286dc7e5ff8977fc2260d99e\\output\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\places_ic_search.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\8d411b15853cb5d0286dc7e5ff8977fc2260d99e\\output\\res\\drawable-xxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\b395449099dfe2345b684737342b06bf9310eab3\\output\\res\\drawable-xxhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\imran\\.android\\build-cache\\362370a61d9825d37a4e5e6d431a1147b7ea06f3\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    }
+]

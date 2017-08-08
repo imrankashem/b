@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BD-Doctor</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

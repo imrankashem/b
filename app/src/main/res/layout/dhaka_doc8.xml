@@ -1,0 +1,195 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:minHeight="?attr/actionBarSize">
+
+            <ImageButton
+                android:id="@+id/upButton"
+                style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:adjustViewBounds="true"
+                android:background="@color/colorPrimary"
+                android:onClick="uphandler"
+                android:scrollbarSize="@dimen/cardview_compat_inset_shadow"
+                android:src="@drawable/arr"
+
+                />
+
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:layout_below="@id/toolbar"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+ Dhaka Medical College Hospital
+Category: General Hospital - Government
+Speciality: General and Surgical Health Care Center
+Address : 100 Ramna, Central Shaeed Minar Area, Bakshi Bazar,
+Dhaka - 1000, Bangladesh
+Phone : +880-2-8626812-16
+
+"
+            android:textAllCaps="true"
+            android:textColor="#36454F"
+            android:textSize="23sp"
+            android:textStyle="bold|italic"
+
+            />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+
+            android:fontFamily="casual"
+
+
+            android:text="
+ফার্মাকোলজী বিভাগ\n\n\n
+ডাঃ মোঃ ইসমাইল খান 	এমফিল; জিডিএইচপিএড (অস্টে্লিয়া) 	অধ্যাপক ও বিভাগীয় প্রধান 	৫৫১৬৫০৭৩
+০১৭২০৯৬৪৩০৬ 	head.pharmacology@dmc.gov.bd
+ismailbangladesh@yahoo.com\n\n
+ডাঃ এলিজা ওমর ইভা 	এম ফিল 	সহযোগী অধ্যাপক  	০১৭১৫০৭৭৭৫২ 	elizaomar2381@gmail.com\n\n
+ডাঃ কাজী আফজালুর রহমান 	এম ফিল 	সহযোগী অধ্যাপক 	০১৭১৫১৩৫২১২ 	kaziafzalrahman@yahoo.com\n\n
+ডাঃ রুমানা আফরোজ 	এম ফিল 	সহকারী অধ্যাপক 	০১৭১২০২৭৭০৫ 	rumana.k54@gmail.com\n\n
+ডাঃ সুলতানা ইয়াসমীন 	এম ফিল 	সহকারী অধ্যাপক 	০১৭১৫২৬৭৪০৩ 	ashfaque101162@yahoo.com\n\n
+ডাঃ মাসুমা খানম 	এম ফিল 	সহকারী অধ্যাপক 	০১৭১২৭৫৪২৪৯ 	lunashantoneer@yahoo.com\n\n
+ডাঃ মোর্শেদ বিলকিস 	এম এস সি (বায়োটেক) 	প্রভাষক 	০১৭৯৩০৬২৩৪৪ 	bilquis_morshed@yahoo.com\n\n
+ডাঃ সাবরিনা ইয়াসমিন 	এমপিএইচ 	প্রভাষক 	০১৭১৭৮২৮৩৮৭ 	sabrina.yesmin@yahoo.com\n\n
+ডাঃ মাহবুবা জাহান লোটাস 	এম ফিল 	প্রভাষক 	০১৯১৪৪৭৬৬১৩ 	jehedi6076@yahoo.com\n\n
+ডাঃ রুখসানা কাদির 	এম ফিল 	প্রভাষক 	০১৭১৪৩৫৯৭৬৬ 	dr.rukhsanaquadir@gmail.com\n\n
+ডাঃ কাওসার জাহান মুন 	এম ফিল 	প্রভাষক 	০১৮১৮৬৪৯০৭১ 	kawsarjahan16@yahoo.com\n\n
+ডাঃ রীতি ইউসুফ 	এমডি 	প্রভাষক 	০১৭১৯০৬১৪৭০ 	ritibd3@yahoo.com\n\n
+ডাঃ মুহাম্মদ শাহীন মাসুদ 	  	এম ও 	০১৮১৯৬৭৬৫৯৭ 	dsmasud@gmail.com\n\n\n
+প্যাথলজী বিভাগ\n\n\n
+ডাঃ মালিহা হোসেন 	  	অধ্যাপক ও বিভাগীয় প্রধান\n
+ডাঃ মোঃ নাজমুল হক 	  	সহযোগী অধ্যাপক\n\n
+ডাঃ মোঃ রেজাউল করিম দেওয়ান 	  	সহযোগী অধ্যাপক\n\n
+ডাঃ মোঃ নজিবুর রহমান 	  	সহকারী অধ্যাপক\n\n
+ডাঃ মোহাম্মদ শাহেদ আলী জিন্নাহ 	এম ডি 	সহকারী অধ্যাপক 	০১৭১১১৩৪২৪৯ 	shahed.jinnah63@gmail.com\n\n
+ডাঃ রুকসানা জেবা 	সহকারী অধ্যাপক\n\n
+ডাঃ জেসমিন নাজ ফেরদৌস 	  	প্যাথলজিষ্ট\n\n
+ডাঃ মোঃ তোখরেছ আলী 	  	কিউরেটর\n\n
+ডাঃ মোঃ ইফতেখারুল হক 	  	প্যাথলজিষ্ট\n\n
+ভাইরোলজী \n\n\n
+ডাঃ মনিরা পারভীন 	এম ফিল; এমপিএইচ 	সহকারী অধ্যাপক 	০১৭১১৫৩৮৭৪১ 	monira66@yahoo.com\n\n
+ডাঃ নাসিমা বেগম 	এম ডি 	সহকারী অধ্যাপক 	০১৭১৫৬৬২৫০৬ 	nb.nasima@live.com\n\n
+ডাঃ আয়েশা বেগম 	এম ফিল 	সহকারী অধ্যাপক 	০১৭৫৭২৯১১৬৬ 	drayesha_begum@hotmail.com\n\n
+াঃ রাবেয়া শারমীন 	এম ফিল 	সহকারী অধ্যাপক 	০১৭১১১৪২৫৭৫ 	sharmin.rabeya@gmail.com\n\n
+ডাঃ আফরোজা আকবর সুইটি 	এম ফিল 	সহকারী অধ্যাপক 	০১৭৪২৪৩০০৪২ 	afrozasweety98@yahoo.com\n\n
+ডাঃ নাজনীন নাহার 	এম ফিল 	প্রভাষক 	০১৮১৯২৯৭৪২৭ 	naznin_nehar@yahoo.com\n\n
+ডাঃ মোঃ আনিসুর রহমান 	এম ফিল 	প্রভাষক 	০১৭১৫০৪৯৩৪১ 	dr.shanto30@yahoo.com\n\n
+ডাঃ মোসাঃ মারুফা ইয়াসমিন 	এমবিবিএস 	প্রভাষক 	০১৭২৫৪৪৩৭২৮ 	marufadr10@yahoo.com\n\n
+ 	ডাঃ নূসরাত ফাতেমা 	এমবিবিএস 	প্রভাষক 	০১৭১২০১০০৯৫ 	drnusrat22@yahoo.com\n\n
+ ফরেনসিক মেডিসিন বিভাগ\n\n\n
+ ডাঃ মোঃ হাবিবুজ্জামান চৌধুরী 	  	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ ডাঃ কাজী মেআহাম্মদ আবু শামা 	  	সহকারী অধ্যাপক\n\n
+ ডাঃ আ, খ, ম, শফিউজ্জামান 	  	সহকারী অধ্যাপক\n\n
+ ডাঃ সোহেল মাহমুদ 	  	সহকারী অধ্যাপক\n\n
+ ডাঃ মমতাজ আরা 	  	প্রভাষক\n\n
+ ডাঃ মোহাম্মদ হোসেন 	  	প্রভাষক\n\n
+ ডাঃ মোঃ মেজবাহুর রহমান 	  	প্রভাষক\n\n
+ মেডিসিন বিভাগ\n\n\n
+ ডাঃ খান অাবুল কালাম অাজাদ 	এফসিপিএস; এমডি; এফএসিপি 	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ ডাঃ মোঃ মুজিবুর রহমান 	এফসিপিএস 	অধ্যাপক\n\n
+ ডাঃ শ্যামল সরকার 	এফসিপিএস অধ্যাপক\n\n
+ ডাঃ টিটো মিয়া 	এফসিপিএস 	অধ্যাপক\n\n
+ ডাঃ টিটো মিয়া 	এফসিপিএস 	অধ্যাপক\n\n
+  	ডাঃ মোঃ হাফিজ সরদার 	এফসিপিএস 	অধ্যাপক\n\n
+ ডাঃ ৈসয়দ মোহাম্মদ আরীফ 	এফসিপিএস 	সহযোগী অধ্যাপক\n\n
+ ডাঃ মোঃ রোবেদ অামিন 	এফসিপিএস 	সহযোগী অধ্যাপক 	 \n\n
+ ডাঃ আহমেদুল কবীর 	এফসিপিএস 	সহযোগী অধ্যাপক\n\n
+ ডাঃ মোহাম্মদ যায়েদ হোসেন 	এফসিপিএস 	সহযোগী অধ্যাপক\n\n
+ ডাঃ অর্পনা দাশ 	এফসিপিএস 	সহযোগী অধ্যাপক\nn
+ ডাঃ খান ফিরদ উদি্দন মোহাম্মদ অায়াজ 	  	সহকারী অধ্যাপক\n\n
+ ডাঃ মোঃ আবুল কাসেম 	  	সহকারী অধ্যাপক\n\n
+ ডাঃ মোঃ মতলেবুর রহমান 	  	সহকারী অধ্যাপক 	\n\n
+ ডাঃ মোহাম্মদ মুরাদ হোসাইন 	  	সহকারী অধ্যাপক 	\n\n
+ হেমাটোলজী \n\n\n
+ ডাঃ সালমা আফরেআজ 	  	অধ্যাপক 	 \n\n
+ ডাঃ তাসনিম আরা 	  	সহযোগী অধ্যাপক 	  	\n\n
+	  	ডাঃ মোঃ মিজানুর রহমান 	  	সহকারী অধ্যাপক 	 \n\n
+শিশু বিভাগ\n\n\n
+ডাঃ মোঃ এখলাসুর রহমান 	  	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ডাঃ সাঈদা আনোয়ার 	  	অধ্যাপক\n\n
+ডাঃ ইফফাত আরা শামসাদ 	  	সহযোগী অধ্যাপক\n\n
+ 	ডাঃ সুব্রত কুমার রায় 	  	সহকারী অধ্যাপক\n\n
+ 	ডাঃ রোকেয়া খানম 	  	সহকারী অধ্যাপক\n\n
+ নিওনেটোলজী বিভাগ\n\n
+ডাঃ মোঃ অাবিদ হোসেন মোল্লা 	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ডাঃ মনীষা ব্যানার্জী 	অধ্যাপক\n\n
+ডাঃ মোঃ তোফাজ্জল হোসেন 	সহযোগী অধ্যাপক\n\n
+ডাঃ মোহাম্মদ জহির উদ্দিন 	সহকারী অধ্যাপক\n\n
+চর্ম ও যৌন রোগ বিভাগ\n\n
+ডাঃ রাশেদ মোহাম্মাদ খান 	ডিডিভি 	অধ্যাপক ও বিভাগীয় প্রধান 	০১৮১৯২১১২৮৯ 	cityskin@gmail.com\n\n
+ডাঃ মোহাম্মদ ইমদাদুল হক 	ডিডিভি 	সহযোগী অধ্যাপক 	০১৮১৯২৩৭৪৭৪ 	noorenayet23@gmail.com\n\n
+ডাঃ মাসুদা খাতুন 	এমডি 	সহকারী অধ্যাপক 	০১৭১০৯৫৬৫৫৫ 	masudakhatun64@gmail.com\n\n
+ডাঃ তুষার কানি্ত সিকদার 	ডিডিভি; এমপিএইচ; এফসিপিএস 	সহকারী অধ্যাপক 	০১৭১১২৩১৯৯৫ 	tusharsikdar@yahoo.com\n\n
+কার্ডিওলজী বিভাগ\n\n\n
+ডাঃ আব্দুল ওয়াদুদ চৌধুরী 	এফ সি পি এস; এম ডি 	অধ্যাপক ও বিভাগীয় প্রধান 	০১৮১৯২৫১৫১৯ 	drwadud@hotmail.com\n\n
+ডাঃ মোঃ সিরাজুল হক 	এম ডি 	সহযোগী অধ্যাপক 	০১৮১৯২৯১১৮২ 	serajcardiology@yahoo.com\n\n
+ডাঃ মহসীন আহমদ 	এম ডি 	সহযোগী অধ্যাপক 	০১৬১৩৩৯৩১৮৬ 	mohsinsohel07@gmail.com\n\n
+ডাঃখন্দকার মোঃ নুরুস সাবাহ 	ডি কার্ড; এম সি পি এস; এম ডি 	সহকারী অধ্যাপক 	০১৭১১৩৫০০৬৩ 	sabahkmn09@gmail.com\n\n
+ডাঃ মোঃ গফ্ফার আমিন 	এম ডি 	সহকারী অধ্যাপক 	০১৬৭৩৩৩৭৫৫৩ 	gaffaramin@gmail.com\n\n
+নিউরোলজী বিভাগ\n\n\n
+ডাঃ মনসুর হাবীব 	এফসিপিএস; এমডি; এমআরসিপি; এফআরসিপি 	অধ্যাপক ও বিভাগীয় প্রধান 	০১৭১১৫৪৭৩২৮ 	mansur.habib@yahoo.com\n\n
+ডাঃ স্বপন কুমার ঘোষ 	  	সহযোগী অধ্যাপক\n\n
+নেফে্রালজী বিভাগ\n\n
+ডাঃ মোঃ নিজাম উদি্দন চৌধুরী 	  	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ডাঃ মোঃ নজরুল ইসলাম  	  	সহযোগী অধ্যাপক\n\n
+ডাঃ মোঃ মোশারফ হোসেন খান 	  	সহকারী অধ্যাপক\n\n
+ডাঃ মোঃ ফেরদৌস কামাল ভূঁইয়া 	  	সহকারী অধ্যাপক\n\n
+ডাঃ সহেলী আহমেদ সুইটি 	  	সহকারী অধ্যাপক\n\n
+সার্জারী বিভাগ\n\n\n
+ডাঃ মোহাম্মদ আবুল হাসেম ভূঞা 	  	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ডাঃ এ জেড এম মোস্তাক হোসেন 	  	অধ্যাপক\n\n
+ডাঃ তপন কুমার সাহা 	  	অধ্যাপক\n\n
+ডাঃ সালমা সুলতানা 	  	সহযোগী অধ্যাপক\n\n
+ডাঃ আবুল বাশার মেআঃ জামাল 	  	সহযোগী অধ্যাপক\n\n
+ডাঃ হাফিজ আহাম্মদ নাজমুল হাকিম 	  	সহকারী অধ্যাপক\n\n
+চক্খু বিভাগ\n\n
+ 	ডাঃ সৈয়দ আবুল কালাম আজাদ 	  	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+ 	 	ডাঃ ফরিদুল হাসান 	  	সহযোগী অধ্যাপক\n\n
+ ডাঃ মোস্তাক আহম্মদ 	  	সহকারী অধ্যাপক\n\n
+  	ডাঃ দিলীপ কুমার দেবনাথ 	  	সহকারী অধ্যাপক \n\n
+  	নাক কান ও গলা বিভাগ\n\n\n
+  	অধ্যাপক ও বিভাগীয় প্রধান\n\n
+  	ডাঃ মোঃ আবু ইউসুফ ফকির 	  	অধ্যাপক\n\n
+  	ডাঃ শেখ নুরুল ফাত্তাহ রুমি 	এমএস, ডিএলও 	সহযোগী অধ্যাপক 	০১৭১১৪৫২৩৮১ 	rumi17dr@gmail.com\n\n
+  	ডাঃ দেবেশ চন্দ্র তালুকদার 	ডি এল ও, এফ সি পি এস 	সহযোগী অধ্যাপক 	০১৭১১৩১৯২৯৬ 	debeshchandratalukder@gmail.c\n\n
+
+
+
+
+
+
+"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textStyle="bold|italic" />
+    </RelativeLayout>
+</ScrollView>

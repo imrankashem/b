@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:minHeight="?attr/actionBarSize">
+
+            <ImageButton
+                android:id="@+id/upButton"
+                style="@android:style/Widget.DeviceDefault.Light.ImageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:adjustViewBounds="true"
+                android:background="@color/colorPrimary"
+                android:onClick="uphandler"
+                android:scrollbarSize="@dimen/cardview_compat_inset_shadow"
+                android:src="@drawable/arr"
+
+                />
+
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:layout_below="@id/toolbar"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+ Chittagong International Dental College and Hospital
+Chand Mia Rd, Chittagong
+www.cidch.edu.bd/n
+"  android:textAllCaps="true"
+            android:textColor="#36454F"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Dr. Abu Sayeed Ibne  Harun
+BDS, MS (Conservative)
+Asst. Prof.  Head.
+Oral and Maxillofacial Surgery	Naim46@yahoo.com\n\n\n
+
+Dr. Faisal Sirajee
+BDS (DU), MS
+Asst. Prof.
+ Esthetic Dentistry  Endodontics	Dentalcarepoint_endo@yahoo.com\n\n\n
+
+Dr. Mohammad Shakhauwat  Tabrej
+BDS (CMC)
+Lecturer.
+ Conservative dentistry and Radiology\n
+Dr. AQM Mohi Uddin Masum
+BDS (CMC), PGT (DDC)
+Dental Surgeon
+masum.mohiuddin@gmail.com
+
+
+
+
+
+"
+            android:textColor="#36454F"
+            android:textSize="18sp"
+            android:textAllCaps="true"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/docchi2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Mohammad Ali Hossain
+BDS, FCPS
+Asst. Prof.   Head.
+Orthodontic Surgery, Correction of Facial Asymmetry
+hossyne@hotmail.com
+
+"
+            android:textColor="#36454F"
+            android:textSize="18sp"
+            android:textAllCaps="true"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/docchi3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Asif Subhan
+BDS (RMC), PGT (DDC)
+Lecturer.
+Esthetic Dentistry  Endodontics	asif17rmc@hotmail.com
+
+
+"
+            android:textColor="#36454F"
+            android:textSize="18sp"
+            android:textAllCaps="true"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/docchi4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+
+            android:gravity="center"
+            android:text="
+
+Dr. AQM Mohi Uddin Masum
+BDS (CMC), PGT (DDC)
+Dental Surgeon
+masum.mohiuddin@gmail.com
+
+"
+
+            android:textColor="#36454F"
+            android:textSize="18sp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:textAllCaps="true"
+            android:textStyle="bold|italic" />
+
+    </RelativeLayout>
+</ScrollView>

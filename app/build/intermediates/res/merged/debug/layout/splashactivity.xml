@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:theme="@style/s"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:background="@drawable/textfx"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp">
+
+    <Button
+        android:id="@+id/rate"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="@dimen/cardview_compat_inset_shadow"
+        android:backgroundTint="@color/cardview_shadow_end_color"
+        android:translationZ="@dimen/cardview_compat_inset_shadow"
+        android:elevation="16dp"
+        android:drawableTop="@drawable/rate"
+        android:text="RATE US"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/share" />
+
+    <Button
+        android:id="@+id/hospitaln"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/con"
+        android:layout_centerHorizontal="true"
+        android:elevation="16dp"
+        android:layout_marginBottom="21dp"
+        android:layout_marginTop="43dp"
+        android:drawableTop="@drawable/street"
+        android:translationZ="@dimen/cardview_compat_inset_shadow"
+
+        android:text="
+ NEARBY
+MEDICAL  SERVICES " />
+
+    <Button
+        android:id="@+id/share"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:elevation="16dp"
+        android:layout_height="wrap_content"
+        android:translationZ="@dimen/cardview_compat_inset_shadow"
+        android:drawableTop="@drawable/share"
+        android:text="SHARE"
+        android:layout_above="@+id/rate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/con"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:elevation="16dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:drawableTop="@drawable/arrow"
+        android:translationZ="@dimen/cardview_compat_inset_shadow"
+        android:lineSpacingExtra="18sp"
+        android:text="Continue"
+        android:textAlignment="center"
+        android:textColor="?attr/actionMenuTextColor"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+
+</RelativeLayout>
