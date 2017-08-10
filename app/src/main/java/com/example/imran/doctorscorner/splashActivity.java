@@ -35,18 +35,6 @@ public class splashActivity extends AppCompatActivity {
 
             }
         });
-        Button about = (Button) findViewById(R.id.about);
-        about.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(v.getContext(), about.class);
-
-                startActivity(intent);
-                overridePendingTransition(R.anim.slide_from_right, R.anim.slide_to_left);
-
-
-            }
-        });
         Button rateus = (Button) findViewById(R.id.rate);
         rateus.setOnClickListener(new View.OnClickListener() {
             @Override
